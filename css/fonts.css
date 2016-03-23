@@ -1,0 +1,9 @@
+@font-face {
+	font-family: 'lucida-sans-unicode';
+	src: url('../fonts/lucida-sans-unicode.eot');
+	src: url('../fonts/lucida-sans-unicode.eot?#iefix') format('embedded-opentype'),
+		 url('../fonts/lucida-sans-unicode.woff') format('woff'),
+		 url('../fonts/lucida-sans-unicode.ttf') format('truetype');
+	font-style: normal;
+	font-weight: normal;
+}
